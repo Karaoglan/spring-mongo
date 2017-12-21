@@ -1,8 +1,7 @@
 .gradle
 /build/
 !gradle/wrapper/gradle-wrapper.jar
-.gradle
-/build/
+out
 
 # Ignore Gradle GUI config
 gradle-app.setting
